@@ -20,7 +20,7 @@ This is a working minimal example of how to use Travis CI (and Codecov) with Jav
 
 This repository also integrates with Codecov to generate reports.
 
-What's done for you:
+What's done for you: 
 - The [JaCoCo](https://www.jacoco.org) plugin is included in `pom.xml`
 - On `.travis.yml`, `after_success` target executes the Codecov script.
 
